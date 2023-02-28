@@ -16,6 +16,7 @@ public class RodarAplicacao {
         //Gerente gerente = new Funcionario();
         //Vendedor vendedor_ = (Vendedor) new Funcionario();
 
+        //exemplos claros de Herança
         Funcionario f1 = new Funcionario();
 
         Gerente g1 = new Gerente();
