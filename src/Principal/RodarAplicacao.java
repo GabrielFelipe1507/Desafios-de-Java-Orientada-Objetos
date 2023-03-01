@@ -1,10 +1,9 @@
 package Principal;
 
-//aqui estou realizando as impostações das Classes de outra Pasta:
-import exercicio_empresa_heranca.Fachineiro;
-import exercicio_empresa_heranca.Gerente;
-import exercicio_empresa_heranca.Vendedor;
-import exercicio_empresa_heranca.Funcionario;
+import exercicio_empresa_heranca_classes.Fachineiro;
+import exercicio_empresa_heranca_classes.Funcionario;
+import exercicio_empresa_heranca_classes.Gerente;
+import exercicio_empresa_heranca_classes.Vendedor;
 
 //Classe Principal:
 public class RodarAplicacao {
