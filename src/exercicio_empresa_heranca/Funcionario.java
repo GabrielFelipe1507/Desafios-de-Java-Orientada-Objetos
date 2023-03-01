@@ -4,10 +4,10 @@ import java.sql.Date;
 
 public class Funcionario {
     
-    String nome;
-    String cpf;
-    String rg;
-    String tempoServico;
+    private String nome;
+    protected String cpf;
+    private String rg;
+    private String tempoServico;
     
 
     public String getTempoServico() {
