@@ -1,5 +1,12 @@
-package exercicio_empresa_heranca;
+package Principal;
 
+//aqui estou realizando as impostações das Classes de outra Pasta:
+import exercicio_empresa_heranca.Fachineiro;
+import exercicio_empresa_heranca.Gerente;
+import exercicio_empresa_heranca.Vendedor;
+import exercicio_empresa_heranca.Funcionario;
+
+//Classe Principal:
 public class RodarAplicacao {
     public static void main(String[] args) {
 
